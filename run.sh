@@ -23,7 +23,7 @@ echo -e $inu"       ░╚═══██╗░░████╔═████
 echo -e $inu"       ██████╔╝░░╚██╔╝░╚██╔╝░╚█████╔╝"
 echo -e $inu"       ╚═════╝░░░░╚═╝░░░╚═╝░░░╚════╝░"
 echo -e $kuning"          SMS        $april WA       $bi CALL"
-echo -e $un"                  Created by : @InuGans"
+echo -e $un"                  Created by : @Xenz-11"
 echo -e $ir"                     Fb/Sapa Yah "
 
 ############# memek menu
@@ -36,7 +36,7 @@ read -p "×==[InuGans]>>> " ges
 
 if [ $ges == 1 ] || [ $ges == 1 ]
 then
-git clone https://github.com/Inu-Gans/bom-spam
+git clone https://github.com/Xenz-11/bom-spam
     cd bom-spam
     git pull
     python bom.py
@@ -46,14 +46,14 @@ fi
 
 if [ $ges == 2 ] || [ $ges == 2 ]
 then
-git clone https://github.com/Inu-Gans/spam-wa
+git clone https://github.com/Xenz-11/spam-wa
     cd spam-wa
     git pull
     python spam-wa.py
     echo "[√] SpamWA berhasil di jalankan"
 elif [ $ges == 3 ] || [ $ges == 3 ]
 then
-    git clone https://github.com/Inu-Gans/SpamCall
+    git clone https://github.com/Xenz-11/SpamCall
     cd SpamCall
     git pull
     python spmcal.py
