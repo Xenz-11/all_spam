@@ -5,3 +5,4 @@ git pull
 bash run.sh
 ```
 # screenshot
+(https://github.com/Xenz-11/all_spam/blob/main/screenshot/Screenshot_20220406-064931.jpg)
