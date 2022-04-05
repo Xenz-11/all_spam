@@ -7,6 +7,8 @@ bi="\033[34m"
 merahmuda="\33[35m"
 birumuda="\33[1;36m"
 inu="\033[37m"
+ir='\e[30;1m'
+un='\e[1;35m'
 ##################
 clear
 echo -e $kuning"FOLLOW FACEBOOK GW DULU BANG$april ^_^"
@@ -21,8 +23,8 @@ echo -e $inu"       ░╚═══██╗░░████╔═████
 echo -e $inu"       ██████╔╝░░╚██╔╝░╚██╔╝░╚█████╔╝"
 echo -e $inu"       ╚═════╝░░░░╚═╝░░░╚═╝░░░╚════╝░"
 echo -e $kuning"          SMS        $april WA       $bi CALL"
-echo -e $me"                  Created by : @InuGans"
-echo -e $inu"                     Fb/Sapa Yah "
+echo -e $un"                  Created by : @InuGans"
+echo -e $ir"                     Fb/Sapa Yah "
 
 ############# memek menu
 echo -e $inu"1 $april    {$inu Spam SMS  $april}"
