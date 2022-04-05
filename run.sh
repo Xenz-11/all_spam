@@ -62,10 +62,12 @@ fi
 
 if [ $ges == 4 ] || [ $ges == 4 ]
 then
-echo "FOLOW FB GW NJING KALO GA"
+echo "FOLOW FB GW DUlU YA BANG KLIK ENTER"
 sleep 3
 xdg-open https://www.facebook.com/inu.pembangkang.7
-echo "GW PERKOSA LU ANJING"
+echo "KALO GAMAU GW PUKUL LU:V"
+sleep 3
+echo "MAKASIH YANG UDAH FOLLOW ^_^"
 sleep 3
 exit
 fi
