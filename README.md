@@ -4,3 +4,4 @@ cd all_spam
 git pull
 bash run.sh
 ```
+# screenshot
