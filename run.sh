@@ -14,15 +14,15 @@ sleep 3
 xdg-open https://www.facebook.com/inu.pembangkang.7
 clear
 
-echo -e $me"░██████╗░██╗░░░░░░░██╗░█████╗░"
-echo -e $me"██╔════╝░██║░░██╗░░██║██╔══██╗"
-echo -e $me"╚█████╗░░╚██╗████╗██╔╝██║░░╚═╝"
-echo -e $inu"░╚═══██╗░░████╔═████║░██║░░██╗"
-echo -e $inu"██████╔╝░░╚██╔╝░╚██╔╝░╚█████╔╝"
-echo -e $inu"╚═════╝░░░░╚═╝░░░╚═╝░░░╚════╝░"
-echo -e $kuning"  SMS        $april WA       $bi CALL"
-echo -e $me"      Created by : @InuGans"
-echo -e $inu"           Fb/Sapa Yah "
+echo -e $me"       ░██████╗░██╗░░░░░░░██╗░█████╗░"
+echo -e $me"       ██╔════╝░██║░░██╗░░██║██╔══██╗"
+echo -e $me"      ╚█████╗░░╚██╗████╗██╔╝██║░░╚═╝"
+echo -e $inu"      ░╚═══██╗░░████╔═████║░██║░░██╗"
+echo -e $inu"      ██████╔╝░░╚██╔╝░╚██╔╝░╚█████╔╝"
+echo -e $inu"      ╚═════╝░░░░╚═╝░░░╚═╝░░░╚════╝░"
+echo -e $kuning"          SMS        $april WA       $bi CALL"
+echo -e $me"                  Created by : @InuGans"
+echo -e $inu"                     Fb/Sapa Yah "
 
 ############# memek menu
 echo -e $inu"1 $april    {$inu Spam SMS  $april}"
