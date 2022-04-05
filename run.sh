@@ -56,7 +56,7 @@ then
     git clone https://github.com/Inu-Gans/SpamCall
     cd SpamCall
     git pull
-    python spmcall.py
+    python spmcal.py
     echo "[√] SpamCall berhasil"
 fi
 
