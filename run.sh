@@ -24,7 +24,7 @@ echo -e $inu"       ██████╔╝░░╚██╔╝░╚██╔
 echo -e $inu"       ╚═════╝░░░░╚═╝░░░╚═╝░░░╚════╝░"
 echo -e $kuning"          SMS        $april WA       $bi CALL"
 echo -e $un"                  Created by : @Xenz-11"
-echo -e $ir"                     Fb/Sapa Yah "
+echo -e $ir"                     Fb : Xenz Why "
 
 ############# memek menu
 echo -e $inu"1 $april    {$inu Spam SMS  $april}"
