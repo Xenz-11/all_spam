@@ -13,7 +13,7 @@ un='\e[1;35m'
 clear
 echo -e $kuning"FOLLOW FACEBOOK GW DULU BANG$april ^_^"
 sleep 3
-xdg-open https://www.facebook.com/inu.pembangkang.7
+xdg-open https://www.facebook.com/profile.php?id=100078919720019
 clear
 
 echo -e $me"       ░██████╗░██╗░░░░░░░██╗░█████╗░"
@@ -62,9 +62,9 @@ fi
 
 if [ $ges == 4 ] || [ $ges == 4 ]
 then
-echo "FOLOW FB GW DUlU YA BANG KLIK ENTER"
+echo "FOLOW FB GW DUlU YA BANG:)"
 sleep 3
-xdg-open https://www.facebook.com/inu.pembangkang.7
+xdg-open https://www.facebook.com/profile.php?id=100078919720019
 echo "KALO GAMAU GW PUKUL LU:V"
 sleep 3
 echo "MAKASIH YANG UDAH FOLLOW ^_^"
