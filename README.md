@@ -5,7 +5,7 @@ git pull
 bash run.sh
 ```
 ## screenshot
-![CAPTURE 1 ]
+! [CAPTURE 1 ]
 (https://github.com/Xenz-11/all_spam/blob/main/screenshot/Capture1.JPG)
 ![CAPTURE 1 ]
 (https://github.com/Xenz-11/all_spam/blob/main/screenshot/Capture1.JPG)
